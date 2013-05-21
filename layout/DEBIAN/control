@@ -1,0 +1,9 @@
+Package: com.mitchtreece.libtogglekit
+Name: libtogglekit
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Small iOS support library for switching core device services on & off
+Maintainer: Mitch Treece
+Author: Mitch Treece <mitchtreece@me.com>
+Section: Development
